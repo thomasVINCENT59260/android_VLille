@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/nomStation"
+            style="@style/NomStation"/>
+
+        <ImageView
+            android:id="@+id/marker"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/marker"
+            />
+
+    </LinearLayout>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/veloLibre"
+            style="@style/TextInfoVLille"
+            android:width="28px"
+            android:height="32px"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:src="@drawable/bike"
+            />
+
+        <TextView
+            android:id="@+id/placeLibre"
+            style="@style/TextInfoVLille"
+            android:width="28px"
+            android:height="32px"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:src="@drawable/parking"
+            />
+
+        <ImageView
+            android:id="@+id/cb"
+            android:src="@drawable/cb"
+            android:layout_gravity="right"
+            />
+
+    </GridLayout>
+
+</LinearLayout><!-- From: file:/home/tomtom/AndroidStudioProjects/Vlille/app/src/main/res/layout/liste_vlille_layout.xml -->

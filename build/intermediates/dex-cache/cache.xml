@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/pre-dexed/debug/classes-80a8487149c368c93a8b14fc935ab6a6e2b30b4f.jar"
+        jar="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-c109b44d3b56adf9be2cf6ae76f82e7bd3d09d7f.jar"
+        jar="/home/tomtom/Bureau/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/pre-dexed/debug/classes-84dc075f29473b53a2395b68e56a4115dcddb183.jar"
+        jar="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1854d5dcb247c6b21cda6d4ecd44b2707e84299c.jar"
+        jar="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/pre-dexed/debug/xstream-1.4.7-a1c7049e738cda10601ce4aae4723b1982399a9c.jar"
+        jar="/home/tomtom/AndroidStudioProjects/Vlille/app/libs/xstream-1.4.7.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bce3282142b63068260f021fcbe48b72e8d71a1a"/>
+    <item
+        dex="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-eb586b870719b9cfa5a525e547c37f9523aed917.jar"
+        jar="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/pre-dexed/debug/classes-bad06b8060d9bc438c9063e172bc70cf0182c457.jar"
+        jar="/home/tomtom/AndroidStudioProjects/Vlille/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+
+</pre-dex-items>
